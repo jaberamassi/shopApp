@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "286043138110",
+    "project_id": "shop-app-c9c29",
+    "storage_bucket": "shop-app-c9c29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286043138110:android:b2d212488d055805e9496f",
+        "android_client_info": {
+          "package_name": "com.jaber.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286043138110-icvv6hhqv6i6rigon14s52lutbtvugum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuJt4VrZoZXCW-sS77Wv-pMEkaw0XDWAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286043138110-icvv6hhqv6i6rigon14s52lutbtvugum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286043138110:android:577a974fd60a8c7fe9496f",
+        "android_client_info": {
+          "package_name": "com.jaber.shopapp.activites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286043138110-icvv6hhqv6i6rigon14s52lutbtvugum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuJt4VrZoZXCW-sS77Wv-pMEkaw0XDWAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286043138110-icvv6hhqv6i6rigon14s52lutbtvugum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
